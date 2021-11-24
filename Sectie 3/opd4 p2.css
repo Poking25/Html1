@@ -1,0 +1,10 @@
+.container{
+    margin-left:auto;
+    margin-right:auto;
+}
+
+img {
+    padding: 125px;
+    border: 5px solid #555;
+    size: 50px;
+}
